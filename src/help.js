@@ -1,5 +1,5 @@
 const help = (prefix) => {
-	return `BARXNL-BOT
+	return `𝗥𝗗𝗡𝗫𝗫-𝗕𝗢𝗧
 	
 	                
 ┏━━━°❀ ❬ 𝘼𝘽𝙊𝙐𝙏 ❭ ❀°━━━┓
@@ -56,8 +56,8 @@ const help = (prefix) => {
 ┣━━━━━━━━━━━━━━━━━━━━
 ┃Thanks To : Aris187 ID
 ┃Follow Ig : @sadboy_ig
-┃Owner     : Muhammad Akbar
-┃Follow Ig : @barxnl
+┃Owner     : Mhmmd Ridwan
+┃Follow Ig : @mridwanalb_
 ┃
 ┃And Thanks To🔥
 ┃MhankBarBar
