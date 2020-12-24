@@ -168,7 +168,7 @@ client.on('group-participants-update', async (anu) => {
 			}
 
 			const botNumber = client.user.jid
-			const ownerNumber = ["6282198571732@s.whatsapp.net"] // ganti nomer lu
+			const ownerNumber = ["6281585919364@s.whatsapp.net"] // ganti nomer lu
 			const isGroup = from.endsWith('@g.us')
 			const sender = isGroup ? mek.participant : mek.key.remoteJid
 			const groupMetadata = isGroup ? await client.groupMetadata(from) : ''
@@ -452,7 +452,7 @@ client.sendMessage(from, drre, text, {quoted: mek})
                                 case 'tagme':
 					var nom = mek.participant
 					const tag = {
-					text: `@${nom.split("@s.whatsapp.net")[0]} Ku tag kau sayang❤️🗿!`,
+					text: `@${nom.split("@s.whatsapp.net")[0]} Ku tag kau sayang🗿!`,
 					contextInfo: { mentionedJid: [nom] }
 					}
 					client.sendMessage(from, tag, text, {quoted: mek})
