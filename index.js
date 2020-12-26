@@ -664,7 +664,7 @@ break
             case 'owner':
             case 'creator':
                   client.sendMessage(from, {displayname: "Jeff", vcard: vcard}, MessageType.contact, { quoted: mek})
-       client.sendMessage(from, 'Tuh kak no CO *BARXNL-BOT*, Kalau ada perlu atau sesuatu chat dia aja kak><',MessageType.text, { quoted: mek} )
+       client.sendMessage(from, 'Tuh kak no CO *𝗥𝗗𝗡𝗫𝗫-𝗕𝗢𝗧*, Kalau ada perlu atau sesuatu chat dia aja kak><',MessageType.text, { quoted: mek} )
            break    
            case 'demote':
 					if (!isGroup) return reply(mess.only.group)
