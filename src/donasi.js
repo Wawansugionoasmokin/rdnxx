@@ -13,15 +13,15 @@ const donasi = () => {
 ┃
 ┣━━━°❀ ❬ 𝗗𝗢𝗡𝗔𝗦𝗜 ❭ ❀°━━━⊱
 ┃
-┣➥ *GOPAY:* 0857-2255-3839
-┣➥ *PULSA:* 0821-9857-1732
-┣➥ *Saweria*:
-┃   https://bit.ly/37tClAQ
+┣➥ *GOPAY:* —
+┣➥ *PULSA:* 0857-1803-8695
+┣➥ *Saweria*: —
+┃
 ┣━━━━━━━━━━━━━━━━━━━━
 ┃Thanks To : Aris187 ID
 ┃Follow Ig : @sadboy_ig
-┃Owner Bot : Muhammad Akbar
-┃Follow Ig : @barxnl
+┃Owner Bot : Muhammad Ridwan
+┃Follow Ig : @mridwanalb_
 ┃ 
 ┃Sc ini dari Aris187 ID.
 ┃Jika ingin donasi Silahkan!
